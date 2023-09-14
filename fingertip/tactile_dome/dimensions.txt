@@ -1,0 +1,17 @@
+﻿"dia_difflayer"= 13
+"dia_outer_out"= 12.5
+"dia_outer_in"= 12
+"dia_inner_out"= 11
+"dia_inner_in"= 10.5
+"degrees"= 12.5
+"d_marker"= 1
+"t_marker"= 0.5
+"n_markers_1"= 6
+"n_markers_2"= round ( 6 * sin ( 2*"degrees" ) / sin ( "degrees" ) )
+"n_markers_3"= round ( 6 * sin ( 3*"degrees" ) / sin ( "degrees" ) )
+"n_markers_4"= round ( 6 * sin ( 4*"degrees" ) / sin ( "degrees" ) )
+"n_markers_5"= round ( 6 * sin ( 5*"degrees" ) / sin ( "degrees" ) )
+"n_teeth"= 8
+"tolerance_domes"= 0.4
+"tolerance_large"= 0.4
+"pinhole_slot"= 3.8
